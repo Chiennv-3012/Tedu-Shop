@@ -1,4 +1,7 @@
-﻿namespace TeduShop.WebApp
+﻿using System.Web.Mvc;
+using System.Web.Routing;
+
+namespace TeduShop.WebApp
 {
     public class RouteConfig
     {

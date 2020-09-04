@@ -1,4 +1,6 @@
-﻿namespace TeduShop.WebApp.Controllers
+﻿using System.Web.Mvc;
+
+namespace TeduShop.WebApp.Controllers
 {
     public class HomeController : Controller
     {

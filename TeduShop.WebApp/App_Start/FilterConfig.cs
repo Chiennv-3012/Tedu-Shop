@@ -1,4 +1,6 @@
-﻿namespace TeduShop.WebApp
+﻿using System.Web.Mvc;
+
+namespace TeduShop.WebApp
 {
     public class FilterConfig
     {

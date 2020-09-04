@@ -1,4 +1,6 @@
-﻿namespace TeduShop.WebApp
+﻿using System.Web.Http;
+
+namespace TeduShop.WebApp
 {
     public static class WebApiConfig
     {
