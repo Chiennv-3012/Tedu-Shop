@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Http;
-
-namespace TeduShop.WebApp
+﻿namespace TeduShop.WebApp
 {
     public static class WebApiConfig
     {
